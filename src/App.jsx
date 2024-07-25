@@ -7,15 +7,15 @@ import Layout from './components/Layout'
 function App() {
   const router = createBrowserRouter([
     {
-      path: '/',
+      path: '/Antd/',
       element: <Layout />,
       children: [
         {
-          path: '/',
+          path: '/Antd/',
           element: <Login />,
         },
         {
-          path: '/register',
+          path: '/Antd/register',
           element: <Register />,
         },
       ],
