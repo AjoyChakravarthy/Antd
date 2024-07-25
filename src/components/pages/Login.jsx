@@ -7,13 +7,13 @@ function login() {
          <div className=" w-[350px] mx-2">
             <div className="flex justify-between underline underline-offset-8 text-xl font-bold mb-5">
                <Link
-                  to="/"
+                  to="/Antd/"
                   className="text-blue-500 cursor-default"
                >
                   Login
                </Link>
                <Link
-                  to="/register"
+                  to="/Antd/register"
                   className="text-blue-300"
                >
                   Register

@@ -20,13 +20,13 @@ function Register() {
          <div className=" w-[350px] mx-2">
             <div className="flex justify-between underline underline-offset-8 text-xl font-bold mb-5 ">
                <Link
-                  to="/register"
+                  to="/Antd/register"
                   className="text-blue-500 cursor-default"
                >
                   Register
                </Link>
                <Link
-                  to="/"
+                  to="/Antd/"
                   className="text-blue-300"
                >
                   Login

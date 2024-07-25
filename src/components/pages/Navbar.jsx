@@ -8,7 +8,7 @@ function Navbar() {
       <nav className="bg-blue-500 p-4">
          <div className="container mx-auto flex justify-between items-center">
             <div className="text-white text-2xl font-bold">
-               <Link to="/">Logo</Link>
+               <Link to="">Logo</Link>
             </div>
 
             <div
@@ -18,7 +18,7 @@ function Navbar() {
             >
                <div className="text-white md:flex md:space-x-6">
                   <Link
-                     to="/"
+                     to=""
                      className="block py-2 md:py-0"
                   >
                      Home
