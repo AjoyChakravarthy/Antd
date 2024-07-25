@@ -11,11 +11,11 @@ function App() {
       element: <Layout />,
       children: [
         {
-          path: '/Antd/',
+          path: '/',
           element: <Login />,
         },
         {
-          path: '/Antd/register',
+          path: '/register',
           element: <Register />,
         },
       ],
